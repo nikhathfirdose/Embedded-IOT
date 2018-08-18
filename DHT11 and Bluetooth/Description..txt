@@ -8,7 +8,7 @@ Open Arduino IDE and include the “dht library file” by pressing on
  → DHT on the top left corner.
 Type the given code, compile and upload
 
-(NOTE: the entire code is given in the INO file)
+(NOTE: the entire code is given in the INO file named "Code")
    
         
 
