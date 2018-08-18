@@ -1,0 +1,16 @@
+                  Wi-Fi  MODULE - ESP8266
+
+
+
+
+
+Connect the ESP8266 Wi-Fi module and the DHT11 temperature sensor  to the  Arduino board as shown in Fig1.png
+Using a USB cable connect board to the laptop
+Enter the below code,  compile and upload
+ Press
+ → Tools
+ → Serial monitor 
+If the serial monitor output displays  ‘OK’
+the connection to the server was successful
+
+
