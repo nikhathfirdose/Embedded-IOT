@@ -1,0 +1,36 @@
+                 1. Temperature and Humidity Sensor  - DHT 11
+   
+DHT11 is interfaced with Arduino as shown in DHT11_temperature_sensor.png file  using jumper wires
+Once it is successfully interfaced, connect the arduino board to the laptop with a USB cable
+Open Arduino IDE and include the “dht library file” by pressing on
+ → Sketch
+ → Include library file 
+ → DHT on the top left corner.
+Type the given code, compile and upload
+
+(NOTE: the entire code is given in the INO file)
+   
+        
+
+
+After uploading check the temperature and humidity value by clicking on 
+  → Tools
+  → Serial monitor  
+
+                                               2. Bluetooth - HC05 
+
+
+
+Connect HC05 bluetooth to arduino as shown in DHT11_and_HC05.png along with the temperature sensor DHT11
+Download the app  Bluetooth Terminal HC05
+In the app give bluetooth access and press on scan
+Select our interfaced device and  enter pin i.e, either 0000 or 1234
+ After pairing the device press the 
+→ Tools
+→ Serial monitor on Arduino IDE
+
+The temperature and humidity value is now displayed on to the app as seen in fig 3
+
+
+
+
