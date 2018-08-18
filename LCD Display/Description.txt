@@ -1,0 +1,28 @@
+            LCD SCREEN DISPLAY 
+
+
+Connect the LCD with arduino as shown in Fig1.png
+Connect the board and laptop with a USB
+Type the given code in Arduino IDE, compile and upload
+
+(Note: the code is in INO file named "code")
+
+
+Since the bluetooth and the temperature sensor is also connected after the code is uploaded the output can be seen on 
+Screen monitor
+Bluetooth app
+LCD
+Open the HC05 app and enter 0000 or 1234 code and check output
+Go to
+ → Tools
+ → Screen monitor   
+and check output on Arduino IDE
+Adjust the 1K potentiometer and see the output  on LCD screen
+
+
+
+
+
+The output is displayed as shown in Fig2.png 
+             
+
